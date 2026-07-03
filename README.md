@@ -16,6 +16,7 @@
 | [0009-palindrome-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
