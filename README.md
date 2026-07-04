@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0069-sqrtx/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
