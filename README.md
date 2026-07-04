@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
@@ -49,9 +50,14 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0069-sqrtx/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
