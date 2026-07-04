@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
+| [0125-valid-palindrome](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
