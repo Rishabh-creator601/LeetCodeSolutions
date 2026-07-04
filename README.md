@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -32,4 +33,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
