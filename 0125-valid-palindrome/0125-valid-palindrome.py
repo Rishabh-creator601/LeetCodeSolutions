@@ -2,12 +2,9 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
 
         s = s.lower()
-
-        for x in s:
-            if not  x.isalnum() :
-                s =  s.replace(x,"")
-        if s[::-1] ==  s:
+        y =  "".join([x for x in s if x.isalnum()])
+        if y[::-1] ==  y:
             return True 
         else:
-            return False  
+            return False 
         
