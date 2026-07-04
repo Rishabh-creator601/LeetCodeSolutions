@@ -19,6 +19,7 @@
 | [0043-multiply-strings](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
