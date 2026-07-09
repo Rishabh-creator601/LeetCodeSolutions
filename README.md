@@ -30,6 +30,7 @@
 | [0050-powx-n](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0069-sqrtx/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/2485-find-the-pivot-integer/) | Easy |
 <!---LeetCode Topics End-->
