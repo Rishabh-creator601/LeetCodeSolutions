@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -16,6 +17,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,8 +62,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
