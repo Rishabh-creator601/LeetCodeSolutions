@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0043-multiply-strings/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
