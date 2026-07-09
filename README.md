@@ -12,6 +12,7 @@
 | [0485-max-consecutive-ones](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
