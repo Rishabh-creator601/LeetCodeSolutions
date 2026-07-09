@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -17,6 +18,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rishabh-creator601/LeetCodeSolutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
